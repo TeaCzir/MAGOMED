@@ -1,0 +1,15 @@
+C:\Users\Вячеслав\Desktop\Magomed\mountain01\obj\Debug\net6.0\mountain01.csproj.AssemblyReference.cache
+C:\Users\Вячеслав\Desktop\Magomed\mountain01\obj\Debug\net6.0\mountain01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вячеслав\Desktop\Magomed\mountain01\obj\Debug\net6.0\mountain01.AssemblyInfoInputs.cache
+C:\Users\Вячеслав\Desktop\Magomed\mountain01\obj\Debug\net6.0\mountain01.AssemblyInfo.cs
+C:\Users\Вячеслав\Desktop\Magomed\mountain01\obj\Debug\net6.0\mountain01.csproj.CoreCompileInputs.cache
+C:\Users\Вячеслав\Desktop\Magomed\mountain01\bin\Debug\net6.0\mountain01.exe
+C:\Users\Вячеслав\Desktop\Magomed\mountain01\bin\Debug\net6.0\mountain01.deps.json
+C:\Users\Вячеслав\Desktop\Magomed\mountain01\bin\Debug\net6.0\mountain01.runtimeconfig.json
+C:\Users\Вячеслав\Desktop\Magomed\mountain01\bin\Debug\net6.0\mountain01.dll
+C:\Users\Вячеслав\Desktop\Magomed\mountain01\bin\Debug\net6.0\mountain01.pdb
+C:\Users\Вячеслав\Desktop\Magomed\mountain01\obj\Debug\net6.0\mountain01.dll
+C:\Users\Вячеслав\Desktop\Magomed\mountain01\obj\Debug\net6.0\refint\mountain01.dll
+C:\Users\Вячеслав\Desktop\Magomed\mountain01\obj\Debug\net6.0\mountain01.pdb
+C:\Users\Вячеслав\Desktop\Magomed\mountain01\obj\Debug\net6.0\mountain01.genruntimeconfig.cache
+C:\Users\Вячеслав\Desktop\Magomed\mountain01\obj\Debug\net6.0\ref\mountain01.dll
